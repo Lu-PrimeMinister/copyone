@@ -4,7 +4,7 @@
 
 最简单易上手，可读性强的 AST 处理工具！
 
-官网123：https://gogocode.io
+官网1：https://gogocode.io
 
 简介：[阿里妈妈出的新工具，给批量修改项目代码减轻了痛苦](https://juejin.cn/post/6938601548192677918)
 
