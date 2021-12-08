@@ -11,3 +11,4 @@ var num2 = increaser(num)
 fn()
 console.log(num2, boo)
 alert(b)
+
